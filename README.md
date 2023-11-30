@@ -1,5 +1,7 @@
 # test
 
+char s1[] = "lorem \n ipsum \t dolor \n sit \t amet";
+
 ft_strchr(0x558493f050a6: "teste", 1024: '\0'): expected: 0x558493f050ab, yours: (nil)
 
 
