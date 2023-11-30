@@ -1,4 +1,8 @@
 # test
+
+ft_strchr(0x558493f050a6: "teste", 1024: '\0'): expected: 0x558493f050ab, yours: (nil)
+
+
 rem ipssum dolor sit a
 ft_split("lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse", ' '));
 ft_split("lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultricies diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.", 'i')
